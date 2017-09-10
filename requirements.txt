@@ -1,0 +1,8 @@
+torch
+Django==1.11.5
+numpy==1.13.1
+olefile==0.44
+Pillow==4.2.1
+pytz==2017.2
+PyYAML==3.12
+six==1.10.0
